@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan
-- 👀 I’m looking for...
-- 🌱 I’m currently learning...
+- 👀 I’m looking for exchange
+- 🌱 I’m currently learning investing
 - 💞️ I’m looking to collaborate on btcusd
-- 📫 How to reach me Heaven on Earth
+- 📫 How to reach me at the Promise Land 931-261-8517
