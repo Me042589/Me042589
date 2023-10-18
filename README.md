@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan
 - 👀 I’m looking for...
 - 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on Heaven on earth
-- 📫 How to reach me btcusd
+- 💞️ I’m looking to collaborate on btcusd
+- 📫 How to reach me Heaven on Earth
