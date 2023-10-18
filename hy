@@ -1,4 +1,4 @@
-FROM python:3-alpine
+3-alpine
 
 RUN apk add --no-cache git unzip groff build-base libffi-dev cmake
 RUN git clone --recursive  --depth 1 --branch v2 --single-branch  https://github.com/aws/aws-cli.git
