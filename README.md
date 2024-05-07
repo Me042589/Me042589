@@ -2,4 +2,4 @@
 - 👀 I’m looking for exchange
 - 🌱 I’m currently learning investing
 - 💞️ I’m looking to collaborate on btcusd
-- 📫 How to reach me at the Promise Land 931-261-8517
+- 📫 How to reach me at the Federal post office.
