@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan
-- 👀 I’m looking for exchange
-- 🌱 I’m currently learning investing
-- 💞️ I’m looking to collaborate on btcusd
-- 📫 How to reach me at the x.
+- 👀 I’m looking for it.
+- 🌱 I’m currently learning what it is.
+- 💞️ I’m looking to collaborate on it's value.
+- 📫 How to reach me at the bank.
