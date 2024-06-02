@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ryan
-- 👀 I’m looking for it.
+- 👋 Hi, I’m Southern Hemishpere.
+- 👀 I’m looking for Stratosphere.
 - 🌱 I’m currently learning what it is.
-- 💞️ I’m looking to collaborate on it's value.
-- 📫 How to reach me at the bank.
+- 💞️ I’m looking to collaborate on it's volume.
+- 📫 How to reach me at home.
