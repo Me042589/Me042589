@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Southern Hemishpere.
-- 👀 I’m looking for Stratosphere.
+- 👋 Hi, World
+- 👀 I’m looking for you.
 - 🌱 I’m currently learning what it is.
 - 💞️ I’m looking to collaborate on it's volume.
 - 📫 How to reach me at home.
