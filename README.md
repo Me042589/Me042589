@@ -1,4 +1,4 @@
-- 👋 Hi, World
+- 👋 Hi, John.
 - 👀 I’m looking for you.
 - 🌱 I’m currently learning what it is.
 - 💞️ I’m looking to collaborate on it's volume.
