@@ -1,5 +1,5 @@
 - 👋 Hey.
-- 👀 I’m looking.
+- 👀 I’m looking for DeepSake.
 - 🌱 I’m currently learning what it is.
 - 💞️ I’m looking to collaborate on it's volume.
 - 📫 How to reach me at home.
