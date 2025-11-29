@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ryan
 - 👀 I’m the remote control.
 - 🌱 I’m currently learning the Word
-- 💞️ I’m looking to collaborate on Heaven on earth
+- 💞️ I’m looking to collaborate on Heaven on Earth.
 - 📫 How to reach me 🙏
 
 <!---
