@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 5
+- 👋 Hi, I’m private property.
 - 👀 I’m the remote comptroller.
 - 🌱 I’m currently migrate farming.
 - 💞️ I’m looking to open.
