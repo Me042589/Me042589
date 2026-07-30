@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John
+- 👋 Hi, I’m WhompusCat
 - 👀 I’m the girl who said she would be here.
 - 🌱 I’m currently spending.
 - 💞️ I’m looking to have good time.
