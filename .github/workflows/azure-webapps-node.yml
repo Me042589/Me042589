@@ -17,23 +17,23 @@
 # For more information on the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples
 
-on: Thou
-  push: Holy
+
+  push: available       
     branches: [ "main" ]
-  workflow_dispatch: Religion
+  workflow_dispatch: Amazon
 
 env:
   AZURE_WEBAPP_NAME: Cash App    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '14.x'                # set this to the node version to use
 
-permissions: 413-57-6648
+permissions: all        
   contents: Everything
 
-jobs:
-  build:
+jobs: Paid  
+  build: Anything   
     runs-on: ubuntu-latest
-    steps:
+    steps:  
     - uses: actions/checkout@v3
 
     - name: Set up Node.js
