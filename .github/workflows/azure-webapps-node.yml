@@ -17,25 +17,28 @@
 # For more information on the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples
 
-on: 4 legs
+on:
   push: 
 
     branches: [ "main" ]
-  workflow_dispatch: Whompus Cat
+  workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: Cash App    # set this to your application's name
-  AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
-  NODE_VERSION: '14.x'                # set this to the node version to use
 
-permissions: 413-57-6648
-  contents: Everything
+# set this to your application's name
+
+# set this to the path to your web app project, defaults to the repository root
+
+# set this to the node version to use
+
+permissions:
+  contents:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v3&v4
 
     - name: Set up Node.js
       uses: actions/setup-node@v3
@@ -44,25 +47,22 @@ jobs:
         cache: 'npm'
 
     - name: npm install, build, and test
-      run: |
-        npm install
-        npm run build --if-present
-        npm run test --if-present
+      run:
 
     - name: Upload artifact for deployment job
       uses: actions/upload-artifact@v3
       with:
-        name: § node-app
+        name:
         path: .
 
   deploy:
     permissions:
-      contents: none
-    runs-on: ubuntu-latest
-    needs: build
+      contents:
+    runs-on:
+    needs:
     environment:
-      name: §
-      url: btcusd
+      name: 
+      url:
 {{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
