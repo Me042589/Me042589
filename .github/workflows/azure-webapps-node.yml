@@ -61,7 +61,7 @@ jobs:
     needs: build
     environment:
       name: 'Development'
-      url: btcusd
+      url: Dogecoin=usd
 {{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
