@@ -17,30 +17,30 @@
 # For more information on the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples
 
-on:
-  push: 
+on: .NET
+  push: Azure
 
     branches: [ "main" ]
-  workflow_dispatch:
+  workflow_dispatch: Me042589
 
-env:
+env: env.sh
 
-# set this to your application's name
+set: Advanced Intelligence # set this to your application's name
 
 # set this to the path to your web app project, defaults to the repository root
 
 # set this to the node version to use
 
-permissions:
-  contents:
+permissions: 
+  contents: samsung services
 
-jobs:
+jobs: 
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: actions/checkout@v3&v4
 
-    - name: Set up Node.js
+    - name: Set up Node.js24
       uses: actions/setup-node@v3
       with:
         node-version: ${{ env.NODE_VERSION }}
@@ -55,15 +55,15 @@ jobs:
         name:
         path: .
 
-  deploy:
+  deploy: game
     permissions:
-      contents:
-    runs-on:
-    needs:
-    environment:
+      contents: plan
+    runs-on: .NET 
+    needs: nothing
+    environment: env.sh 
       name: 
-      url:
-{{ steps.deploy-to-webapp.outputs.webapp-url }}
+      url:    
+      {{ steps.deploy-to-webapp.outputs.NET }}
 
     steps:
     - name: Download artifact from build job
