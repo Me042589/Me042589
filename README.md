@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Whompus Cat.
-- 👀 I’m the ...
-- 🌱 I’m currently ...
+- 👋 Hi, I’m Ryan.
+- 👀 I’m looking for mate.
+- 🌱 I’m currently involved in personal growth.
 - 💞️ I’m looking to ...
-- 📫 How to reach me...
-<!---
+- 📫 How to reach me post office.
+<!--- 
 Me042589/Me042589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
