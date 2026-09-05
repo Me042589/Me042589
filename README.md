@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan.
 - 👀 I’m looking for mate.
-- 🌱 I’m currently involved in personal growth.
+- 🌱 I’m currently involved in dicipileship.
 - 💞️ I’m looking to ...
 - 📫 How to reach me 1425 North Willow Apartment C2.
 <!--- 
