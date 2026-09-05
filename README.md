@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan. A.K.A "Richard Carter".
+- 👋 Hi, I’m Ryan & Ronnie. A.K.A "Richard Carter".
 - 👀 I’m looking for mate.
 - 🌱 I’m currently involved in growth and developement.
 - 💞️ I’m looking to ...
