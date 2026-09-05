@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ryan & Ronnie. A.K.A "Richard Carter".
 - 👀 I’m looking for mate.
 - 🌱 I’m currently involved in growth and developement.
-- 💞️ I’m looking to ...
+- 💞️ I’m looking to bond.
 - 📫 How to reach me 1425 North Willow Apartment C2.
 <!--- 
 Me042589/Me042589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
