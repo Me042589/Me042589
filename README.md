@@ -2,7 +2,7 @@
 - 👀 I’m looking for mate.
 - 🌱 I’m currently involved in personal growth.
 - 💞️ I’m looking to ...
-- 📫 How to reach me post office.
+- 📫 How to reach me 1425 North Willow Apartment C2.
 <!--- 
 Me042589/Me042589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
