@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan & Ronnie. "Richard Carter".
+- 👋 Hi, I’m Ryan. 
 - 👀 I’m looking for mate.
 - 🌱 I’m currently involved in growth and developement.
 - 💞️ I’m looking to bond.
@@ -7,8 +7,8 @@
 Me042589/Me042589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 👋 Hey, you know me from the last time.
-- 👀 I’m looking for...
-- 🌱 I’m currently...
+- 👋 Hey, you know me from "Richard Carter".
+- 👀 I’m looking for inmates.
+- 🌱 I’m currently open.
 - 💞️ I’m looking to...
 - 📫 How to reach me Free Bird Bail Bonding.
