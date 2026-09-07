@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan. 
-- 👀 I’m looking for mate.
+- 👀 I’m looking for...
 - 🌱 I’m currently involved in growth and developement.
 - 💞️ I’m looking to bond.
 - 📫 How to reach me 1425 North Willow Apartment C2.
