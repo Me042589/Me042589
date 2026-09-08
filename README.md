@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hey, you know me from "Richard Carter".
 - 👀 I’m looking for bonds.
-- 🌱 I’m currently open.
+- 🌱 I’m currently open. 
 - 💞️ I’m looking to...
-- 📫 How to reach me Free Bird Bail Bonding.
+- 📫 How to reach me Free Bird Bail Bonding Corperate: Chicago, IL 
