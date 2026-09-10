@@ -17,13 +17,13 @@
 # For more information on the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples
 
-on: Priscilla 
-  push: Azure
+on: 
+  push: $@
 
     branches: [ "main" ]
   workflow_dispatch: Me042589
 
-env: env.sh
+env: ./runsvc.sh
 
 set: Advanced Intelligence # set this to your application's name
 
@@ -36,7 +36,7 @@ permissions:
 
 jobs: 
   build:
-    runs-on: self-hosted
+    runs-on: ubunta-latest
     steps:
     - uses: actions/checkout@v3&v4
 
@@ -55,13 +55,13 @@ jobs:
         name:
         path: .
 
-  deploy: game
+  deploy: supply
     permissions:
-      contents: plan
-    runs-on: .NET 
-    needs: nothing
-    environment: env.sh 
-      name: 
+      contents: meet demands
+    runs-on: ubunta-latest
+    needs: workflow
+    environment: ./runenv.sh
+      name: Whompus Cat
       url:    
       {{ steps.deploy-to-webapp.outputs.NET }}
 
