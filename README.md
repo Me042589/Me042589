@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ryan. 
-- 👀 I’m looking for...
-- 🌱 I’m currently involved in...
-- 💞️ I’m looking to bond.
-- 📫 How to reach me 1425 North Willow Apartment C2.
+- 👀 I’m looking for https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf
+- 🌱 I’m currently involved in what is to be seen.
+- 💞️ I’m looking to ...
+- 📫 How to reach me Todd Blanche
 <!--- 
 Me042589/Me042589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
